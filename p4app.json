@@ -1,0 +1,9 @@
+{
+	"program": "switch.p4",
+	"language": "p4-16",
+	"targets": {
+		"custom": {
+			"program": "topo.py"
+		}
+	}
+}
