@@ -3,7 +3,7 @@
 	"language": "p4-16",
 	"targets": {
 		"custom": {
-			"program": "topo.py"
+			"program": "stp.py"
 		}
 	}
 }
